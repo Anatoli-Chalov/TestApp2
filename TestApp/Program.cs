@@ -5,10 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 
 namespace TestApp
-{
-    internal class Program
+
     {
-        static void Main
        WriteLine("Hello World!");
     }
-}
